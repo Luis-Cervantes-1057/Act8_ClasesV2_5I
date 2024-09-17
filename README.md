@@ -11,8 +11,9 @@
 ## Clases V2
 - CODIGO
 
-  ![image](https://github.com/user-attachments/assets/c99702a8-185a-4474-8824-0b09f56133c5)
+![image](https://github.com/user-attachments/assets/17de1df3-f748-4797-a6d7-15431406c78e)
+
 - RESULTADO
 
-  ![image](https://github.com/user-attachments/assets/11caaa92-0c30-4bf7-874a-283918916f14)
+  ![image](https://github.com/user-attachments/assets/dbb7a136-115c-4378-8e27-ba826d872ea7)
 
