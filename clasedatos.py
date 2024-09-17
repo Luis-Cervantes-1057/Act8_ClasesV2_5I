@@ -21,8 +21,8 @@ class Informacion:
         "Argentina": "Lionel Andres MESSI",
         "America" : "Henry la bomba yucateca Martin"
         }
-        for x in equipos:
-            print(x)
+        for x,y in equipos:
+            print(x,y)
 
 #Creando el objeto
 datos = Informacion()
